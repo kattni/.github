@@ -1,6 +1,6 @@
 # BeeWare Community Code of Conduct
 
-## Our pledge <a name="pledge"></a>
+## Our pledge <a name="our-pledge"></a>
 
 We pledge to make our community welcoming, safe, and equitable for all.
 
@@ -8,7 +8,7 @@ We are committed to fostering an environment that respects and promotes the dign
 
 The guidelines within and enforcement of the BeeWare Community Code of Conduct applies equally to everyone participating in the BeeWare community, including members of the Code of Conduct Response Team.
 
-## Encouraged behaviors
+## Encouraged behaviors <a name="encouraged-behaviors"></a>
 
 While acknowledging differences in social norms, we all strive to meet our community's expectations for positive behavior. We also understand that our words and actions may be interpreted differently than we intend based on culture, background, or native language.
 
@@ -22,7 +22,7 @@ With these considerations in mind, we agree to behave mindfully toward each othe
 6. Committing to **repairing harm** when it occurs.
 7. Behaving in other ways that promote and sustain the **well-being of our community**.
 
-## Restricted behaviors
+## Restricted behaviors <a name="restricted-behaviors"></a>
 
 We agree to restrict the following behaviors in our community. Instances, threats, and promotion of these behaviors are violations of this Code of Conduct.
 
@@ -34,7 +34,7 @@ We agree to restrict the following behaviors in our community. Instances, threat
 6. **Endangerment.** Causing, encouraging, or threatening violence or other harm toward any person or group.
 7. Behaving in other ways that **threaten the well-being** of our community.
 
-### Other restrictions
+### Other restrictions <a name="other-restrictions"></a>
 
 1. **Misleading identity.** Impersonating someone else for any reason, or pretending to be someone else to evade enforcement actions.
 2. **Misrepresenting project affiliation.** Speaking or acting in a way that implies an official affiliation with the BeeWare project, where one does not exist.
@@ -45,7 +45,7 @@ We agree to restrict the following behaviors in our community. Instances, threat
 7. **Irresponsible messaging.** Failing to responsibly present content which includes, links or describes any other restricted behaviors.
 8. Other conduct that could reasonably be considered **unprofessional or inappropriate**.
 
-## Reporting an issue
+## Reporting an issue <a name="reporting-an-issue"></a>
 
 Tensions can occur between community members even when they are trying their best to collaborate. Not every conflict represents a code of conduct violation, and this Code of Conduct reinforces encouraged behaviors and norms that can help avoid conflicts and minimize harm.
 
@@ -56,7 +56,7 @@ When an incident does occur, it is important to report it promptly to the BeeWar
 
 The Response Team takes reports of violations seriously and will make every effort to respond in a timely manner. They will investigate all reports of code of conduct violations, reviewing messages, logs, and recordings, or interviewing witnesses and other participants. The Team will keep investigation and enforcement actions as transparent as possible while prioritizing safety and confidentiality. In order to honor these values, enforcement actions are carried out in private with the involved parties, but communicating to the whole community may be part of a mutually agreed upon resolution.
 
-## Making a report
+## Making a report <a name="making-a-report"></a>
 
 All reports will be kept confidential. In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
@@ -76,7 +76,7 @@ In your report please include:
 
 Code of Conduct Response Team members are obligated to maintain confidentiality with regard to the reporter and details of an incident.
 
-## The Response Team's report follow-up
+## The Response Team's report follow-up <a name="report-follow-up"></a>
 
 You will receive a response acknowledging receipt of your report. We promise to acknowledge receipt within 24 hours (and will aim for much quicker than that).
 
@@ -97,7 +97,7 @@ Once we've determined our final action, we'll contact the original reporter to l
 
 Finally, depending on the specifics of the incident and the potential for ongoing harm, the Response Team may choose to make a public report of the incident on The Buzz, the BeeWare blog.
 
-## Enforcement: addressing and repairing harm
+## Enforcement: addressing and repairing harm <a name="enforcement"></a>
 
 If an investigation by the Response Team finds that this Code of Conduct has been violated, the following enforcement ladder may be used to determine how best to repair harm, based on the incident's impact on the individuals involved and the community as a whole. Depending on the severity of a violation, lower rungs on the ladder may be skipped.
 
@@ -123,11 +123,11 @@ If an investigation by the Response Team finds that this Code of Conduct has bee
 
 This enforcement ladder is intended as a guideline. It does not limit the ability of Community Managers to use their discretion and judgment, in keeping with the best interests of our community.
 
-## Scope
+## Scope <a name="scope"></a>
 
 This Code of Conduct applies within all community spaces, including GitHub, the BeeWare Discord server, and in-person events, such as conferences, meetups, and sprints. It also applies when an individual is officially representing the community in public or other spaces. Examples of representing our community include using an official email address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
-## Attribution
+## Attribution <a name="attribution"></a>
 
 This Code of Conduct is adapted from the Contributor Covenant, version 3.0, permanently available at [https://www.contributor-covenant.org/version/3/0/](https://www.contributor-covenant.org/version/3/0/).
 
